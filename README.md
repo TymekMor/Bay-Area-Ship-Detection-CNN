@@ -12,8 +12,7 @@ Clone the repository and initialize the environment. `uv` will automatically ins
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
-cd <project-directory>
+git clone https://github.com/TymekMor/Bay-Area-Ship-Detection-CNN.git
 
 # Create venv and install dependencies
 uv sync
